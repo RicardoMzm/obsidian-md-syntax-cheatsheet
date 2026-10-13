@@ -1,0 +1,10 @@
+{
+  "id": "md-syntax-cheatsheet",
+  "name": "Markdown Syntax Cheatsheet",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "在工具栏添加一个开关，点击即可显示/隐藏完整的 Markdown 语法对照表（带实时预览、搜索与点击复制）。",
+  "author": "Ricardo",
+  "authorUrl": "https://github.com/RicardoMzm",
+  "isDesktopOnly": false
+}

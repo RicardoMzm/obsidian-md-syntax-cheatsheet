@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+
+# 构建中间产物
+*.map
+*.zip
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地草稿
+*.local.*

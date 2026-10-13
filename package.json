@@ -1,0 +1,27 @@
+{
+  "name": "md-syntax-cheatsheet",
+  "version": "1.0.0",
+  "description": "Obsidian plugin: a toolbar toggle that shows a full Markdown syntax cheat sheet.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc --noEmit && node esbuild.config.mjs production"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "markdown",
+    "cheatsheet"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RicardoMzm/obsidian-md-syntax-cheatsheet.git"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "esbuild": "^0.24.0",
+    "obsidian": "^1.7.2",
+    "typescript": "^5.6.2"
+  }
+}
